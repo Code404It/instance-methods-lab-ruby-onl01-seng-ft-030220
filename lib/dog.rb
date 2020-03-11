@@ -1,11 +1,11 @@
 class Dog
 
-  def sit
-    puts “whatever thing we want you to say”
+  def bark
+    puts "Woof!"
   end
 
-  def bark
-    puts “whatever else we want you to say”
+  def sit
+    puts "The dog is sitting"
   end
 
 end
